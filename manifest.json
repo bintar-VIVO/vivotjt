@@ -1,0 +1,25 @@
+{
+  "name": "VIVO TJT TIMUR — Sales Monitoring",
+  "short_name": "VIVO TJT",
+  "description": "Sistem Monitoring Penjualan & Insentif VIVO Area Regional TJT Timur",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#091124",
+  "theme_color": "#0050D8",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
